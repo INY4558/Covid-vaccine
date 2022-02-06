@@ -1,0 +1,15 @@
+METADATA|ElementEntryWithCosting|ElementName|EffectiveStartDate|EffectiveEndDate|IdentifierType|AssignmentNumber|EntryType|CreateEntrySequence|InputValueName1|ScreenEntryValue1|InputValueName2|ScreenEntryValue2|Segment1|Segment2|Segment3|Segment4|Segment5
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|312711|E|1|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|126935|E|2|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|126530|E|3|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|231257|E|4|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|154107|E|5|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|156157|E|6|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|157231|E|7|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|126833|E|8|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|129457|E|9|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|156876|E|10|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|157748|E|11|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|127248|E|12|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|137448|E|13|Amount|100|Earned Date|2022/02/04|||||
+MERGE|ElementEntryWithCosting|CV19 Vaccine|2022/02/04||Person Number|127121|E|14|Amount|100|Earned Date|2022/02/04|||||
